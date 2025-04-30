@@ -1,16 +1,44 @@
-# flutter_basic_to_do_app
+# ✅ Flutter ToDo List App
 
-A new Flutter project.
+Bu Flutter uygulaması, kullanıcıların yapılacaklar listesi (ToDo) oluşturmasına olanak tanır. Görev ekleme, listeleme ve görev silme gibi temel işlevleri içerir. Basit bir kullanıcı arayüzü ve `setState` ile durum yönetimi kullanılmıştır.
 
-## Getting Started
+## 📌 Özellikler
 
-This project is a starting point for a Flutter application.
+- Görev ekleme
+- Görevleri listeleme
+- Göreve tıklayarak silme
+- Anlık liste güncelleme
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Stateful widget yapısı
+- `TextField`, `ListView`, `Dismissible`, `SnackBar` gibi temel bileşenler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Kurulum ve Çalıştırma
+
+1. Projeyi klonla:
+```
+git clone https://github.com/EfsaTortukk/Flutter-ToDoList.git
+cd Flutter-ToDoList
+```
+
+2. Gerekli bağımlılıkları yükle:
+```
+flutter pub get
+```
+
+3. Uygulamayı çalıştır:
+```
+flutter run
+```
+
+## 📝 Ekran Görüntüsü
+
+> Uygulamadan bir ekran görüntüsü buraya eklenebilir
+
+## ✍️ Geliştirici
+
+👩‍💻 Efsa Tortuk  
+📫 [GitHub Profilim](https://github.com/EfsaTortukk)
